@@ -23,12 +23,12 @@ Please note that the website may take time to load, this is because your request
 
 An example with just a prompt (prompt is required):
 ```
-    https://imageai.zayaanar.me?prompt=sign
+    https://imageai.zayaanar.me/generate?prompt=sign
 ```
 
 A specced-out example with some extra metadata (prompt is required):
 ```
-    https://imageai.zayaanar.me?prompt=sign&seed=420&steps=4
+    https://imageai.zayaanar.me/generate?prompt=sign&seed=420&steps=4
 ```
 
 ## License
