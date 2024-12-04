@@ -8,6 +8,7 @@ ImageAI is a free API for generating images based on user-provided prompts, seed
 [!WARNING]
 > The ImageAI Demo will only be active for a short period of time so voters on High Seas can see a real-world example.
 > This service will likely be shutdown very soon after this voting period.
+
 > Currently, ImageAI is available to demo. (this will change however)
 
 ## Features
